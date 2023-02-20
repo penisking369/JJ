@@ -2,7 +2,7 @@ import openai
 import streamlit as st
 
 # 在OpenAI平台上设置您的API密钥
-openai.api_key = "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"
+openai.api_key = "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"
 
 # 定义您要使用的GPT模型的引擎ID
 engine_id = "davinci-003"
